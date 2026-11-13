@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../public"
+		},
+		{
+			"name": "src",
+			"path": "."
+		},
+		{
+			"name": "tpReact",
+			"path": "../tpReact"
+		}
+	],
+	"settings": {}
+}
